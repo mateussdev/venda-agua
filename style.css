@@ -127,3 +127,31 @@ body{
   color: #FAFAFA;
 }
 
+/* Dispositivos extra pequenos (telefones, 600px e inferior) */
+@media only screen and (max-width: 600px) {
+  .cabecalho {
+    justify-content: space-between;
+  }
+
+  .cabecalho-imagem {
+    height: 50px;
+  }
+
+  .conteudo-principal {
+    flex-direction: column-reverse;
+
+    margin-top: 20px;
+  }  
+
+  .conteudo-principal-escrito {
+    margin-top: 20px;
+
+    gap: 15px;
+  }
+
+  .conteudo-principal-escrito-botao {
+    margin: 0 auto;
+
+    margin-top: 20px;
+  }
+}
