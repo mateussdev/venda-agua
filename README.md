@@ -1,7 +1,7 @@
 ![Logo of the project](https://github.com/mateussdev/venda-agua/blob/main/images/agua-mineral2.png)
 
 # Landing Page para venda de água mineral
-Página criada para venda de água mineral
+Landing Page para divulgar venda de água mineral.
 
 ## Tecnologias
 
